@@ -11,6 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "@sanity/client": "^0.132.5",
-    "gatsby-node-helpers": "^0.3.0"
+    "@sanity/image-url": "^0.132.5",
+    "gatsby-node-helpers": "^0.3.0",
+    "gatsby-source-filesystem": "next"
   }
 }

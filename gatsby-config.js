@@ -8,7 +8,8 @@ module.exports = {
       resolve: 'gatsby-source-test',
       options: {
         projectId: 'vromr0qo',
-        dataset: 'development'
+        dataset: 'development',
+        query: '*'
       }
     }
   ],
